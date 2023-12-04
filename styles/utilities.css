@@ -20,7 +20,10 @@ html {
 	color: #ffffff;
 	text-decoration: underline;
 	text-decoration-color: #D6BB0E;
-    border: 3px solid ;
+}
+
+h1 {
+    font-size: 80px;
 }
 
 .poze {
