@@ -4,7 +4,7 @@ html {
     overflow: visible;
 }
 .banner3 {
-	width: 100vw;
+	width: 125vw;
 	height: 1500px;
 	background: linear-gradient(rgba(0, 0, 0, 0.75),rgba(0, 0, 0, 0.75)),url(../public/restaurant.jpg);
 	background-size: cover;
